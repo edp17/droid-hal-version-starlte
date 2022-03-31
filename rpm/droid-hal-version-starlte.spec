@@ -4,7 +4,7 @@
 %define vendor samsung
 
 # Manufacturer and device name to be shown in UI
-%define vendor_pretty SAMSUNG
+%define vendor_pretty Samsung
 %define device_pretty Galaxy S9
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
